@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj": {}
+    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj": {
+    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj",
-        "projectName": "Patterns",
-        "projectPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj",
+        "projectUniqueName": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
+        "projectName": "GetData",
+        "projectPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\obj\\",
+        "outputPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",
