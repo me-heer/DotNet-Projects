@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterns", "Pattern1\Patter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetData", "..\GetData\GetData.csproj", "{8CAC584A-5142-44BE-BF1B-1C645BAE270E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceAndInterface", "..\..\..\LabPrograms\Azure DevOps\DotNet\ImplementationInheritance\InheritanceAndInterface.csproj", "{E622D75C-A205-4C0C-A091-F987CCC3FDD4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndInheritance", "..\InterfaceAndInheritance\InterfaceAndInheritance.csproj", "{FBE1E370-7BFB-44CA-A2B2-9B582E251011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAndInheritance", "..\InterfaceAndInheritance\InterfaceAndInheritance.csproj", "{FBE1E370-7BFB-44CA-A2B2-9B582E251011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		{8CAC584A-5142-44BE-BF1B-1C645BAE270E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAC584A-5142-44BE-BF1B-1C645BAE270E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAC584A-5142-44BE-BF1B-1C645BAE270E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E622D75C-A205-4C0C-A091-F987CCC3FDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E622D75C-A205-4C0C-A091-F987CCC3FDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E622D75C-A205-4C0C-A091-F987CCC3FDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E622D75C-A205-4C0C-A091-F987CCC3FDD4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FBE1E370-7BFB-44CA-A2B2-9B582E251011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBE1E370-7BFB-44CA-A2B2-9B582E251011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE1E370-7BFB-44CA-A2B2-9B582E251011}.Release|Any CPU.ActiveCfg = Release|Any CPU
