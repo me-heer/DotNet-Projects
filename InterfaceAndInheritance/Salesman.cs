@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InheritanceAndInterface
+namespace InterfaceAndInheritance
 {
     abstract class Salesman
     {
@@ -11,12 +11,14 @@ namespace InheritanceAndInterface
 
         abstract public void Sell();
 
-        public Salesman(string fName, string lName) {
+        public Salesman(string fName, string lName)
+        {
             FirstName = fName;
             LastName = lName;
         }
 
-        public string GetFirstName() {
+        public string GetFirstName()
+        {
             return FirstName;
         }
         public string GetLastName()

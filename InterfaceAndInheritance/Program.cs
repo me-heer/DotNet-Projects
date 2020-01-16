@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace InheritanceAndInterface
+namespace InterfaceAndInheritance
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CarSalesman carSalesObj = new CarSalesman("Mihir","Joshi");
+            CarSalesman carSalesObj = new CarSalesman("Mihir", "Joshi");
             carSalesObj.Sell();
             RetailSalesman retailSalesObj = new RetailSalesman("Mihir", "Joshi");
             retailSalesObj.Sell();

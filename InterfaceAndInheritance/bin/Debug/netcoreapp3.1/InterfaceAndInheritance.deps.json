@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ImplementationInheritance/1.0.0": {
+      "InterfaceAndInheritance/1.0.0": {
         "runtime": {
-          "ImplementationInheritance.dll": {}
+          "InterfaceAndInheritance.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ImplementationInheritance/1.0.0": {
+    "InterfaceAndInheritance/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
