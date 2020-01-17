@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InterfaceAndInheritance
 {
-    class RetailSalesman : ISalesman
+    class RetailSalesman : ISalesman, IDevelop
     {
         private string FirstName;
         private string LastName;
@@ -17,5 +17,6 @@ namespace InterfaceAndInheritance
         {
             Console.WriteLine("Hello my name is: " + FirstName + " " + LastName + ", I recommend you to buy this product.");
         }
+        public void SelfDevelop() { }
     }
 }
