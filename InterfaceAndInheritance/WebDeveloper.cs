@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InterfaceAndInheritance
 {
-    class Class1
+    class WebDeveloper : Developer
     {
     }
 }

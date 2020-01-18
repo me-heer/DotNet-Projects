@@ -4,7 +4,8 @@ using System.Text;
 
 namespace InterfaceAndInheritance
 {
-    class Class1
+    class SoftwareDeveloper : Developer, IDevelop
     {
+        public void SelfDevelop() { }
     }
 }

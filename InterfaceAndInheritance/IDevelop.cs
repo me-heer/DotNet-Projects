@@ -4,7 +4,8 @@ using System.Text;
 
 namespace InterfaceAndInheritance
 {
-    interface Interface1
+    interface IDevelop
     {
+        public void SelfDevelop();
     }
 }
