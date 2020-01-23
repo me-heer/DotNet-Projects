@@ -6,8 +6,8 @@ namespace InterfaceAndInheritance
 {
     class RetailSalesman : ISalesman, IDevelop
     {
-        private string FirstName;
-        private string LastName;
+        readonly string FirstName;
+        readonly string LastName;
         public RetailSalesman(string fName, string lName)
         {
             FirstName = fName;

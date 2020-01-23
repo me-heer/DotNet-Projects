@@ -6,8 +6,8 @@ namespace InterfaceAndInheritance
 {
     class CarSalesman : ISalesman
     {
-        private string FirstName;
-        private string LastName;
+        readonly string FirstName;
+        readonly string LastName;
         public CarSalesman(string fName, string lName)
         {
             FirstName = fName;

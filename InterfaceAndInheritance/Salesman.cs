@@ -6,8 +6,8 @@ namespace InterfaceAndInheritance
 {
     abstract class Salesman
     {
-        private string FirstName;
-        private string LastName;
+        readonly string FirstName;
+        readonly string LastName;
 
         abstract public void Sell();
 
