@@ -8,3 +8,4 @@ D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfo.cs
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.dll
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Conversions\obj\Debug\netcoreapp3.1\Conversions.csprojAssemblyReference.cache
