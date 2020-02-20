@@ -42,8 +42,7 @@ namespace InfixToPostfixBetter
                                 }
                             }
                             catch (InvalidOperationException e) {
-                                
-                            }                            
+                            }                           
                             stack.Push(infix[i]);
                         }
                         break;

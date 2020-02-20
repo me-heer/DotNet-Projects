@@ -1,0 +1,10 @@
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.exe
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.deps.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.runtimeconfig.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.runtimeconfig.dev.json
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\bin\Debug\netcoreapp3.1\CollectionsExample.pdb
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\obj\Debug\netcoreapp3.1\CollectionsExample.AssemblyInfoInputs.cache
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\obj\Debug\netcoreapp3.1\CollectionsExample.AssemblyInfo.cs
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\obj\Debug\netcoreapp3.1\CollectionsExample.dll
+D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\CollectionsExample\obj\Debug\netcoreapp3.1\CollectionsExample.pdb
