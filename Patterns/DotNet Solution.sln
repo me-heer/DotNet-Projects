@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfixToPostfixBetter", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsExample", "..\CollectionsExample\CollectionsExample.csproj", "{3E70383D-A9BF-4171-BB2E-845B9CA458C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWords", "..\NumberToWords\NumberToWords.csproj", "{5377F4C0-243F-4382-B71A-DA40143F3ED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWords", "..\NumberToWords\NumberToWords.csproj", "{5377F4C0-243F-4382-B71A-DA40143F3ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordsUsingStrings", "..\NumberToWordsUsingStrings\NumberToWordsUsingStrings.csproj", "{D7482974-3690-4798-96B8-8A83CEABEAC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWordsUsingStrings", "..\NumberToWordsUsingStrings\NumberToWordsUsingStrings.csproj", "{D7482974-3690-4798-96B8-8A83CEABEAC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{45BA007B-495C-4393-8CD8-7A660040415D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D7482974-3690-4798-96B8-8A83CEABEAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7482974-3690-4798-96B8-8A83CEABEAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7482974-3690-4798-96B8-8A83CEABEAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA007B-495C-4393-8CD8-7A660040415D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA007B-495C-4393-8CD8-7A660040415D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA007B-495C-4393-8CD8-7A660040415D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA007B-495C-4393-8CD8-7A660040415D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
