@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
       "projectName": "NumberToWordsUsingStrings",
-      "projectPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\obj\\",
+      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

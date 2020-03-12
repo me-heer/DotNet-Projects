@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
         "projectName": "GetData",
-        "projectPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
