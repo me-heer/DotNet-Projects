@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfix\\InfixToPostfix.csproj",
-      "projectName": "InfixToPostfix",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfix\\InfixToPostfix.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfix\\5. InfixToPostfix.csproj",
+      "projectName": "5. InfixToPostfix",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfix\\5. InfixToPostfix.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
       "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfix\\obj\\",
       "projectStyle": "PackageReference",

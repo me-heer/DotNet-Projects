@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\GetData.csproj",
-      "projectName": "GetData",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\GetData.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\2. GetData.csproj",
+      "projectName": "2. GetData",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\2. GetData.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
       "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\obj\\",
       "projectStyle": "PackageReference",

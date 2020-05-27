@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\NumberToWords.csproj",
-      "projectName": "NumberToWords",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\NumberToWords.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\6. NumberToWords.csproj",
+      "projectName": "6. NumberToWords",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\6. NumberToWords.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
       "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\obj\\",
       "projectStyle": "PackageReference",
