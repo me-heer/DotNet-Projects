@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2h5pVtigmEhsyKE+ZHYf6HgmXD+cP7ex7IqSnwoQvxVQaHZy9lMWk/RU3wv37qSkXAzJJUa55+S8YCLhfgz7Cg==",
+  "dgSpecHash": "m3n84W89A6aZd6Lsb5Et3okwSZvhifa71UD3qODsxU8Y3uuvYeh2jiRM+9xI7pDNzGBo8otahmXfrDsz1jno1Q==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj",
+  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\Patterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

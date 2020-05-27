@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EuttGXxR0A68GjJY+P8oP+s5tkb3RYeuvBCoUQHwajETIGQfnyYp8w9s8lOUrPP/HNVO1XNagH7EaIu0tttIwQ==",
+  "dgSpecHash": "puSsgan46/zbeBtAhTk8fEwFhPvxGvr31WvW9yo3Pz1OG8cXcr0VcW8TFbjrRMStBxKW1bnRuyHZMDbBmGviuQ==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\InfixToPostfixBetter.csproj",
+  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\InfixToPostfixBetter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

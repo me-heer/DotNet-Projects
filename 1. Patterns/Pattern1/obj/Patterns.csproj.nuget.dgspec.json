@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\Patterns.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\Patterns.csproj",
         "projectName": "Patterns",
-        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\Patterns.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\Patterns.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\Patterns\\Pattern1\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\1. Patterns\\Pattern1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

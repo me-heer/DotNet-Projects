@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance\\InterfaceAndInheritance.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance (optional)\\InterfaceAndInheritance.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance\\InterfaceAndInheritance.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance (optional)\\InterfaceAndInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance\\InterfaceAndInheritance.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance (optional)\\InterfaceAndInheritance.csproj",
         "projectName": "InterfaceAndInheritance",
-        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance\\InterfaceAndInheritance.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance (optional)\\InterfaceAndInheritance.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InterfaceAndInheritance (optional)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWords\\NumberToWords.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\NumberToWords.csproj",
       "projectName": "NumberToWords",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWords\\NumberToWords.csproj",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\NumberToWords.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWords\\obj\\",
+      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWords\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\CurrencyConverter.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\CurrencyConverter.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\CurrencyConverter.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\CurrencyConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\CurrencyConverter.csproj",
         "projectName": "CurrencyConverter",
-        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\CurrencyConverter.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

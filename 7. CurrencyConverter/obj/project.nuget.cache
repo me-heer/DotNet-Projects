@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tHpOINsf5OozS+39rQhLzgVmpftURDL0K0nbupRl5jAT9xmvkP7BtWjm1nR5eIRQLv9orA3K7Piivx7x65AqjA==",
+  "dgSpecHash": "87PCzxAIFLVWaPpJz2sJolm18+kwgRCLms2SasX89jAbhCf6U8DzWsUtajSHQkaSBn3Ej32gLPQ//fpRwnu2xQ==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\CurrencyConverter\\CurrencyConverter.csproj",
+  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\7. CurrencyConverter\\CurrencyConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

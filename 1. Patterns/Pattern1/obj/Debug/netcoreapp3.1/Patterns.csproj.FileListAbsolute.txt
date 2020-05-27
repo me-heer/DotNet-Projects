@@ -31,3 +31,16 @@ D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Patterns\Pattern1\obj\
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.dll
 D:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.exe
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.deps.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\bin\Debug\netcoreapp3.1\Patterns.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.csprojAssemblyReference.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.pdb
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\1. Patterns\Pattern1\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache

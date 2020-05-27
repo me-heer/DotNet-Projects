@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\TemperatureConversion\\TemperatureConversion.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\8. TemperatureConversion\\TemperatureConversion.csproj",
       "projectName": "TemperatureConversion",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\TemperatureConversion\\TemperatureConversion.csproj",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\8. TemperatureConversion\\TemperatureConversion.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\TemperatureConversion\\obj\\",
+      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\8. TemperatureConversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ge8nRFXuUYeJxQ5Ev4LN2iL8YxChkCPLUX6l/cw3UpZDwSC4LmGC1cJ+1EpE1JUmk7dXrdTH701em0EqJ8EO7w==",
+  "dgSpecHash": "1Jso+jVz/+at9TZ3onPnAeRYf5trIiN8v8kouxZTL4wKX+/+m5Q6Dw/wIiWHDoQMUgnCbxgvQrBK3NJUt1kdwQ==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\GetData\\GetData.csproj",
+  "projectFilePath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\2. GetData\\GetData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

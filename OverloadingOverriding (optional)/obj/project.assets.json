@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding\\OverloadingOverriding.csproj",
+      "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding (optional)\\OverloadingOverriding.csproj",
       "projectName": "OverloadingOverriding",
-      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding\\OverloadingOverriding.csproj",
+      "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding (optional)\\OverloadingOverriding.csproj",
       "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding\\obj\\",
+      "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\OverloadingOverriding (optional)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

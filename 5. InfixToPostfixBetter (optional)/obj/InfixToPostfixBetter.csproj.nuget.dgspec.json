@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\InfixToPostfixBetter.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\InfixToPostfixBetter.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\InfixToPostfixBetter.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\InfixToPostfixBetter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\InfixToPostfixBetter.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\InfixToPostfixBetter.csproj",
         "projectName": "InfixToPostfixBetter",
-        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\InfixToPostfixBetter.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\InfixToPostfixBetter.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\InfixToPostfixBetter\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\5. InfixToPostfixBetter (optional)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",

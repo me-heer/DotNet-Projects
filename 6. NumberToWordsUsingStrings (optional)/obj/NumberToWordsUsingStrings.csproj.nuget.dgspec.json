@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj": {}
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWordsUsingStrings (optional)\\NumberToWordsUsingStrings.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj": {
+    "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWordsUsingStrings (optional)\\NumberToWordsUsingStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
+        "projectUniqueName": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWordsUsingStrings (optional)\\NumberToWordsUsingStrings.csproj",
         "projectName": "NumberToWordsUsingStrings",
-        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\NumberToWordsUsingStrings.csproj",
+        "projectPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWordsUsingStrings (optional)\\NumberToWordsUsingStrings.csproj",
         "packagesPath": "C:\\Users\\Mihir\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\NumberToWordsUsingStrings\\obj\\",
+        "outputPath": "E:\\Learn\\College\\Sem-6\\NET Technology\\Azure DevOps\\DotNet\\6. NumberToWordsUsingStrings (optional)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",
